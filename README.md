@@ -1,5 +1,5 @@
 # COSC1519 AT1 | Snakes, Ladders & Traps Game
-**Course Name:** Introduction to Programming
+**Course Name:** Introduction to Programming (2017, Semester 1)
 
 A Java project that recreates the traditional Snakes & Ladders game, introducing "traps" which prevent the player from advancing after a certain number of turns have passed.
 
